@@ -118,3 +118,21 @@ body {
   font-size: 28px;
   font-style: italic;
 }
+
+/* ENROLLMENT SECTION */
+#enroll-now {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  font-family: Roboto;
+}
+
+#enroll-now button {
+  border: none;
+  background-color: #2aa1ec;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+}
