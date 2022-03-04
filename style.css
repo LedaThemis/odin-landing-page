@@ -97,6 +97,10 @@ body {
   font-family: Raleway;
 }
 
+#why-you-should-take-it h2 {
+  font-size: 36px;
+}
+
 .features {
   display: flex;
   align-items: flex-start;
