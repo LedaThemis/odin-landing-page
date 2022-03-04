@@ -102,3 +102,19 @@ body {
 
   text-align: center;
 }
+
+/* QUOTE SECTION */
+#importance-of-learning {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.quote-div {
+  display: flex;
+  flex-direction: column;
+
+  font-family: sans-serif;
+  font-size: 28px;
+  font-style: italic;
+}
