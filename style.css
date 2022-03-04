@@ -152,4 +152,5 @@ body {
   background-color: var(--main-background-color);
 
   font-family: Raleway;
+  color: var(--hero-main-text);
 }
