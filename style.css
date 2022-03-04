@@ -121,6 +121,10 @@ body {
   display: flex;
   align-items: flex-start;
   gap: 20px;
+  width: 60vw;
+  padding: 20px 40vw;
+
+  background-color: #e5e7eb;
 }
 
 .quote-div {
