@@ -149,7 +149,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #2aa1ec;
+  background-color: var(--main-background-color);
 
   font-family: Raleway;
 }
