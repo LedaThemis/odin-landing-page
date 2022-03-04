@@ -9,6 +9,10 @@ body {
   --header-logo-text: #f9faf8;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 /* NAVBAR */
 
 .navbar {
